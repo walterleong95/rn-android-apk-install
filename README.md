@@ -52,6 +52,9 @@ This project is based `react-native-install-apk` with enhancements to support cu
     ```
 4. Add the following to your `AndroidManifest.xml` file. 
    Take note of the value of `android:authorities`. It will be used in the last step. For example, `(APP_BUNDLE_ID).provider`.
+   ```xml
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+   ```
   ```xml
     <provider
             android:name="android.support.v4.content.FileProvider"
