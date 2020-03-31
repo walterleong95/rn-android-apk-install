@@ -1,5 +1,7 @@
 # React Native APK Installer
 
+[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/rn-android-apk-install/)
+
 Install an Android APK from your react-native project.
 This project is based `react-native-install-apk` with enhancements to support current RN versions.
 
