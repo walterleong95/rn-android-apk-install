@@ -36,7 +36,7 @@ This project is based `react-native-install-apk` with enhancements to support cu
 
     ```java
       ...
-      import com.wl.apkinstaller.ApkInstallerPackage;  // add this for rn-android-apk-install
+      import com.wl.apkinstall.ApkInstallerPackage;  // add this for rn-android-apk-install
 
       public class MainApplication extends Application implements ReactApplication {
 
