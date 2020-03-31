@@ -1,17 +1,17 @@
 {
-  "name": "react-native-apk-installer",
+  "name": "rn-android-apk-install",
   "version": "0.0.2",
-  "author": "null--",
+  "author": "walterleong95",
   "private": false,
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/null--/react-native-apk-installer.git"
+    "url": "git+https://github.com/walterleong95/rn-android-apk-install.git"
   },
   "bugs": {
-    "url": "https://github.com/null--/react-native-apk-installer/issues"
+    "url": "https://github.com/walterleong95/rn-android-apk-install/issues"
   },
-  "homepage": "https://github.com/null--/react-native-apk-installer",
+  "homepage": "https://github.com/walterleong95/rn-android-apk-install",
   "keywords": [
     "react-native",
     "android",

@@ -1,4 +1,4 @@
-package com.wl.apkinstaller;
+package com.wl.apkinstall;
 
 import android.os.Build;
 import android.support.v4.content.FileProvider;

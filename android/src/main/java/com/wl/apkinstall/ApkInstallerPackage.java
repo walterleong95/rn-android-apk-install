@@ -1,4 +1,4 @@
-package com.wl.apkinstaller;
+package com.wl.apkinstall;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
@@ -11,8 +11,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class ApkInstallerPackage implements ReactPackage {
-
-    @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
