@@ -13,6 +13,13 @@ This project is based `react-native-install-apk` with enhancements to support cu
   - Or do `npm install --save git+https://github.com/walterleong95/rn-android-apk-install.git` in your main project.
 
 2. Link the library:
+   ## Automatic installation
+    
+   `react-native link rn-android-apk-install`
+  
+    or
+    
+   ## Manual installation 
 
   - Add the following to `android/settings.gradle`:
 
